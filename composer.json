@@ -1,0 +1,16 @@
+{
+    "name": "dd/dummy-temp",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Big Hat"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
